@@ -1,0 +1,5 @@
+C:\Desenvolvimento\SistemaEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Desenvolvimento\SistemaEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Desenvolvimento\SistemaEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\SistemaEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Desenvolvimento\SistemaEstoque\Modelo\obj\Debug\Modelo.pdb

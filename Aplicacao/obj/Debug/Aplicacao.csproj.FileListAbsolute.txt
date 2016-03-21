@@ -1,0 +1,9 @@
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\obj\Debug\Aplicacao.pdb
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Data.dll
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Modelo.dll
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Data.pdb
+C:\Desenvolvimento\SistemaEstoque\Aplicacao\bin\Debug\Modelo.pdb
